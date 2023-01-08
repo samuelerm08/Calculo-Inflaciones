@@ -1,0 +1,16 @@
+C:\Users\samue\OneDrive\Escritorio\BOOTCAMP\C#.NETParaNoProgramadores\PracticaLogica\bin\Debug\PracticaLogica.exe.config
+C:\Users\samue\OneDrive\Escritorio\BOOTCAMP\C#.NETParaNoProgramadores\PracticaLogica\bin\Debug\PracticaLogica.exe
+C:\Users\samue\OneDrive\Escritorio\BOOTCAMP\C#.NETParaNoProgramadores\PracticaLogica\bin\Debug\PracticaLogica.pdb
+C:\Users\samue\OneDrive\Escritorio\BOOTCAMP\C#.NETParaNoProgramadores\PracticaLogica\obj\Debug\PracticaLogica.csproj.AssemblyReference.cache
+C:\Users\samue\OneDrive\Escritorio\BOOTCAMP\C#.NETParaNoProgramadores\PracticaLogica\obj\Debug\PracticaLogica.csproj.SuggestedBindingRedirects.cache
+C:\Users\samue\OneDrive\Escritorio\BOOTCAMP\C#.NETParaNoProgramadores\PracticaLogica\obj\Debug\PracticaLogica.csproj.CoreCompileInputs.cache
+C:\Users\samue\OneDrive\Escritorio\BOOTCAMP\C#.NETParaNoProgramadores\PracticaLogica\obj\Debug\PracticaLogica.exe
+C:\Users\samue\OneDrive\Escritorio\BOOTCAMP\C#.NETParaNoProgramadores\PracticaLogica\obj\Debug\PracticaLogica.pdb
+C:\Users\samue\OneDrive\Escritorio\BOOTCAMP\C#.NETParaNoProgramadores\EjercicioC#-SamuelRiveraMata\bin\Debug\PracticaLogica.exe.config
+C:\Users\samue\OneDrive\Escritorio\BOOTCAMP\C#.NETParaNoProgramadores\EjercicioC#-SamuelRiveraMata\bin\Debug\PracticaLogica.exe
+C:\Users\samue\OneDrive\Escritorio\BOOTCAMP\C#.NETParaNoProgramadores\EjercicioC#-SamuelRiveraMata\bin\Debug\PracticaLogica.pdb
+C:\Users\samue\OneDrive\Escritorio\BOOTCAMP\C#.NETParaNoProgramadores\EjercicioC#-SamuelRiveraMata\obj\Debug\PracticaLogica.csproj.AssemblyReference.cache
+C:\Users\samue\OneDrive\Escritorio\BOOTCAMP\C#.NETParaNoProgramadores\EjercicioC#-SamuelRiveraMata\obj\Debug\PracticaLogica.csproj.SuggestedBindingRedirects.cache
+C:\Users\samue\OneDrive\Escritorio\BOOTCAMP\C#.NETParaNoProgramadores\EjercicioC#-SamuelRiveraMata\obj\Debug\PracticaLogica.csproj.CoreCompileInputs.cache
+C:\Users\samue\OneDrive\Escritorio\BOOTCAMP\C#.NETParaNoProgramadores\EjercicioC#-SamuelRiveraMata\obj\Debug\PracticaLogica.exe
+C:\Users\samue\OneDrive\Escritorio\BOOTCAMP\C#.NETParaNoProgramadores\EjercicioC#-SamuelRiveraMata\obj\Debug\PracticaLogica.pdb
